@@ -18,4 +18,4 @@
 
 ### 🙄😎Eat🥣, Travel🚄, Soccer⚽, Movies🎬, Fork🍴 - Repeat 😁😁
  
-[![Support](https://cdn.buymeacoffee.com/buttons/v2/default-white.png)](https://paypal.com/jikkubarca)
+[![Support](https://cdn.buymeacoffee.com/buttons/v2/default-white.png)](https://telegram.dog/mirrorall)
