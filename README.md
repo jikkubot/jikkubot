@@ -1,5 +1,6 @@
 ### Hello There This is Jikku <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
+[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/jikkubot) [![telegram badge](https://img.shields.io/badge/JiKkUbArCa-30302f?style=flat&logo=telegram)](https://telegram.dog/jikkubarca) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://visi.tk/jikku)  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jikkubot/)
 
 - 🔭 I’m currently working on Termux-projects
 - 🌱 I’m currently learning Python+Bash
@@ -17,4 +18,5 @@
 <a href="https://t.me/jikkubarca"><img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white"></a><a href="https://www.instagram.com/barcajikku"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://github.com/jikkubot"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 
 ### 🙄🙄Now I am NOOB May Be Now But I will Change My Tag One Day Waiting For That Day😁
+ [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ..ㅤping@-InFoTelGroup-RED.svg)](https://telegram.dog/InFoTelGroup)
 [![Support](https://cdn.buymeacoffee.com/buttons/v2/default-white.png)](https://paypal.com/jikkubarca)
