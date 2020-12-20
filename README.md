@@ -1,4 +1,4 @@
-### <h2>Hello There, <img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">, This is Jikku</h2><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+### <h2>Hello There, <img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">This is Jikku</h2><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 [![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/jikkubot) [![telegram badge](https://img.shields.io/badge/JiKkUbArCa-30302f?style=flat&logo=telegram)](https://telegram.dog/jikkubarca) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://visi.tk/jikku)  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jikkubot/) [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ..ㅤping@-InFoTelGroup-RED.svg)](https://telegram.dog/InFoTelGroup)
 
