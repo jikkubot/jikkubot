@@ -12,7 +12,7 @@
 - ⚡ Quote: “I’m not a teacher: only a fellow traveler of whom you asked the way. I pointed ahead – ahead of myself as well as you.” — George Bernard Shaw
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jikkubot&hide=prs&count_private=true&show_icons=true&theme=blueberry">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=prs&count_private=true&show_icons=true&theme=blueberry">
 📫 How to reach me
 <a href="https://telegram.dog/jikkubarca"><img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white"></a><a href="https://www.instagram.com/barcajikku"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://github.com/jikkubot"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a><a href="https://gitlab.com/jikkubot"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"><a href="mailto:jikkubot1@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jikkubot1@gmail.com"/></a>
 
